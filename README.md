@@ -1,7 +1,8 @@
 # Cryostat_RADES-BabyIAXO
 Supporting code for the master thesis "Thermodynamic Design of a Cryostat for a Radiofrequency Cavity Detector in Search of Dark Matter".
+See this thesis for more information and to understand the code: https://cds.cern.ch/record/2804052?ln=en
 
-This includes three big components:
+The folder structure includes three big components:
 
 HeatLoadEstimation
 Code used to estimate the heat load in the cryostat.
